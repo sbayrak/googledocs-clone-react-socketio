@@ -11,7 +11,7 @@ The document is automatically saved every 2 seconds.
 
 > The backend is deployed to Heroku, so frontend and backend are deployed on different cloud providers. You may use other providers that are able to deploy a Node.js application.
 
-<br> <br>
+<br>
 
 ## Tech Stack
 
@@ -20,14 +20,14 @@ The document is automatically saved every 2 seconds.
 - Socket.io
 - MongoDB
 
-<br> <br>
+<br>
 
 ## Dependencies
 
 Since there are **_client_** and **_server_** folders, please refer to `package.json` file in both folders. <br>
 Therefore, please run `npm install` in both folders.
 
-<br> <br>
+<br>
 
 ## Environment Variables
 
